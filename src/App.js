@@ -15,7 +15,7 @@ import { fetchData } from './api';
 
 // import image from './images/image.png';
 // import image from './images/corona.png';
-import image from './images/coronavirus.jpg';
+import image from './images/coronavirus.png';
 
 
 class App extends React.Component {
